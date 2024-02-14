@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+}
+
+#tarjetas{
+    padding-top: 2rem;
+}
+
+.card{
+    margin-top: 2rem;
+}
+
+.tarjetas{
+    text-align: center;
+}
