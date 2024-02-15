@@ -13,3 +13,9 @@ body{
 .tarjetas{
     text-align: center;
 }
+
+h1{
+    text-align: center;
+    padding-top: 1.2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
