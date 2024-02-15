@@ -20,3 +20,14 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: black;
 }
+
+footer{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    background-color: lightblue;
+}
+
+h5{
+    color: black;
+    text-align: center;
+}
